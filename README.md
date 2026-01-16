@@ -1,10 +1,11 @@
-<h1>Hi, I'm Shahriar! <br/><a href="https://github.com/shahriarabul">Programmer</a>, <a href="https://www.linkedin.com/in/Shahriarabul/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Shahriar! <br/><a href="https://github.com/shahriarabul">Programmer</a>, <a href="https://www.linkedin.com/in/Shahriarabul/">Software Engineering | Cybersecurity </a>, <a href=
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
 [Active Directory Home Lab] https://github.com/shahriarabul/ActiveDirectoryLab
 
-
+Certifications 
+[ICS2 Cybersecurity ] https://www.linkedin.com/learning/certificates/3c55857dc17368f41b8d694d2de332e2780d9352715e4d6b1434b07f4bcb714d
 
 <h2> 🤳 Connect with me:</h2>
 
