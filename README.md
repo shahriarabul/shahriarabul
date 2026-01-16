@@ -4,10 +4,10 @@ Software Engineering | Cybersecurity
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-[Active Directory Home Lab] https://github.com/shahriarabul/ActiveDirectoryLab
+Active Directory Home Lab https://github.com/shahriarabul/ActiveDirectoryLab
 
 Certifications 
-[ICS2 Cybersecurity ] https://www.linkedin.com/learning/certificates/3c55857dc17368f41b8d694d2de332e2780d9352715e4d6b1434b07f4bcb714d
+ICS2 Cybersecurity  https://www.linkedin.com/learning/certificates/3c55857dc17368f41b8d694d2de332e2780d9352715e4d6b1434b07f4bcb714d
 
 <h2> 🤳 Connect with me:</h2>
 
